@@ -52,9 +52,3 @@ No installation required! This is a vanilla JS project.
     ```
 2.  Open `index.html` in your browser.
     * *Note: For MediaPipe to work correctly locally, it is recommended to use a local server (like Live Server in VS Code) due to browser security policies regarding webcams.*
-
-## 📄 License
-MIT License. Feel free to use this as a base for your own AI experiments!
-
----
-*Created by Muhammad Zeeshan Islam - Co-Founder of Unicodrex & Technical Associate of Skill Sprint, Powered by Prompt Engineering.*
