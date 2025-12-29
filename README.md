@@ -4,7 +4,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-Black?style=for-the-badge&logo=three.js)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-009973?style=for-the-badge)
 
-> **"From blank canvas to a physics-based, hand-tracking engineering"**
+> **"From blank canvas to a physics-based, hand-tracking engine in exactly 59.3 seconds."**
 
 ## 🚀 Overview
 This project is a real-time, interactive 3D particle system controlled entirely by hand gestures. It was architected and coded using **Google's Gemini 3.0** inside AI Studio via advanced prompt engineering. 
@@ -52,3 +52,4 @@ No installation required! This is a vanilla JS project.
     ```
 2.  Open `index.html` in your browser.
     * *Note: For MediaPipe to work correctly locally, it is recommended to use a local server (like Live Server in VS Code) due to browser security policies regarding webcams.*
+
