@@ -4,7 +4,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-Black?style=for-the-badge&logo=three.js)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-009973?style=for-the-badge)
 
-> **"From blank canvas to a physics-based, hand-tracking engine in exactly 59.3 seconds."**
+> **"From blank canvas to a physics-based, hand-tracking engineering"**
 
 ## 🚀 Overview
 This project is a real-time, interactive 3D particle system controlled entirely by hand gestures. It was architected and coded using **Google's Gemini 3.0** inside AI Studio via advanced prompt engineering. 
